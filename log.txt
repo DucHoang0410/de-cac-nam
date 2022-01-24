@@ -1,0 +1,9 @@
+Nha_rieng 8 10
+DHBKHN 12 1
+C9_DHBK 13 20
+C1_DHBK 14 51
+Ca_phe 15 22
+TC_DHBK 16 30
+Ca_phe 17 40
+C9_DHBK 18 10
+Nha_rieng 20 10
